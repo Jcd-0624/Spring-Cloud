@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Spring-Cloud.iml" filepath="$PROJECT_DIR$/Spring-Cloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trace-one/trace-one.iml" filepath="$PROJECT_DIR$/trace-one/trace-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trace-two/trace-two.iml" filepath="$PROJECT_DIR$/trace-two/trace-two.iml" />
     </modules>
   </component>
 </project>

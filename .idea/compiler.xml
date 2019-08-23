@@ -8,11 +8,16 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eureka" />
         <module name="Spring-Cloud" />
+        <module name="trace-one" />
+        <module name="trace-two" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="eureka" target="1.8" />
       <module name="Spring-Cloud" target="1.5" />
+      <module name="trace-one" target="1.8" />
+      <module name="trace-two" target="1.8" />
+      <module name="zipkin-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
